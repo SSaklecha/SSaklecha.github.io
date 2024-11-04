@@ -275,12 +275,14 @@ article.active {
 .content-card {
   position: relative;
   background: var(--border-gradient-onyx);
+  height:auto;
   padding: 15px;
   padding-top: 45px;
   border-radius: 14px;
   box-shadow: var(--shadow-2);
   cursor: pointer;
   z-index: 1;
+  max-height: none;
 }
 
 .content-card::before {
