@@ -1879,7 +1879,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
 .download-resume-container {
   display: flex;
-  justify-content: center;
+  justify-content: right;
   margin-top: 20px;
 }
 
