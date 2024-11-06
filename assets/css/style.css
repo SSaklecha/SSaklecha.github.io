@@ -1877,21 +1877,23 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 /*Download Button*/
 
-.resume-heading {
+.download-resume-container {
   display: flex;
-  align-items: center;
-  font-size: 2em;
-  font-weight: bold;
+  justify-content: center;
+  margin-top: 20px;
 }
 
-.download-icon {
-  display: inline-flex;
-  align-items: center;
+.download-resume-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #ffcc00;
+  color: #000;
   text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 1em;
 }
 
-.download-icon svg {
-  width: 20px;
-  height: 20px;
-  fill: white;
+.download-resume-button:hover {
+  background-color: #ff9900;
 }
