@@ -1885,14 +1885,13 @@ textarea.form-input::-webkit-resizer { display: none; }
 }
 
 .download-icon {
-  margin-left: 8px;
   display: inline-flex;
   align-items: center;
   text-decoration: none;
 }
 
 .download-icon svg {
+  width: 20px;
+  height: 20px;
   fill: white;
-  width: 16px;
-  height: 16px;
 }
