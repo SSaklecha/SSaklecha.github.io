@@ -1875,3 +1875,24 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+/*Download Button*/
+
+.resume-heading {
+  display: flex;
+  align-items: center;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.download-icon {
+  margin-left: 8px;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.download-icon svg {
+  fill: white;
+  width: 16px;
+  height: 16px;
+}
