@@ -507,18 +507,6 @@ main {
 
 .about-text p { margin-bottom: 15px; }
 
-ul {
-  list-style-type: disc !important; /* Forces bullets to appear */
-  margin-left: 20px; /* Adds indentation */
-  padding-left: 20px; /* Adds extra spacing for clarity */
-}
-
-li {
-  display: list-item !important; /* Ensures the list behaves as a list */
-  color: inherit; /* Matches the text color of your site */
-  font-size: inherit; /* Matches the font size of your site */
-}
-
 
 
 /**
