@@ -840,7 +840,7 @@ main {
 }
 
 .bullet {
-  color: #FFD700; 
+  color: #ffd900be; 
   margin-right: 10px;
 }
 
@@ -850,7 +850,7 @@ main {
 }
 
 .skill .skills-title {
-  color: #FFD700; 
+  color: #fffffdb4; 
 }
 
 .skills-box {
@@ -860,7 +860,7 @@ main {
 }
 
 .skills-box-title {
-  color: #FFD700; 
+  color: #ffd900be; 
   margin-bottom: 10px;
 }
 
