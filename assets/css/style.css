@@ -582,6 +582,7 @@ main {
 .testimonials-item {
   min-width: 100%;
   scroll-snap-align: center;
+  height:auto;
 }
 
 .testimonials-avatar-box {
@@ -601,11 +602,8 @@ main {
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
   line-height: 1.6;
-  display: -webkit-box;
-  line-clamp: 4;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
+  display: block;
+  overflow: visible;
 }
 
 
